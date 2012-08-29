@@ -31,7 +31,6 @@ my %WriteMakefileArgs = (
   "LICENSE" => "perl",
   "NAME" => "utf8::all",
   "PREREQ_PM" => {
-    "Dist::CheckConflicts" => "0.02",
     "Encode" => 0,
     "Import::Into" => 0,
     "charnames" => 0,

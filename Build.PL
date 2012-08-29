@@ -33,7 +33,6 @@ my %module_build_args = (
   "recommends" => {},
   "recursive_test_files" => 1,
   "requires" => {
-    "Dist::CheckConflicts" => "0.02",
     "Encode" => 0,
     "Import::Into" => 0,
     "charnames" => 0,
